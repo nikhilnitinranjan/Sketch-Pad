@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttons {
+    margin: 10px;
+    display: flex;
+    gap:8px;
+}
+
+.container {
+    border: 8px solid blue;
+    height: 500px;
+    width: 500px;
+}
